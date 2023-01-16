@@ -1,0 +1,3 @@
+interface Sayable {
+	void say();
+}
